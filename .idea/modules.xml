@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalProject2.iml" filepath="$PROJECT_DIR$/FinalProject2.iml" group="FinalProject2" />
+      <module fileurl="file://$PROJECT_DIR$/JavaJoke/JavaJoke.iml" filepath="$PROJECT_DIR$/JavaJoke/JavaJoke.iml" group="FinalProject2/JavaJoke" />
+      <module fileurl="file://$PROJECT_DIR$/app/androidjokeactivity/androidjokeactivity.iml" filepath="$PROJECT_DIR$/app/androidjokeactivity/androidjokeactivity.iml" group="FinalProject2/app/androidjokeactivity" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="FinalProject2/app" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" group="FinalProject2/backend" />
+    </modules>
+  </component>
+</project>
